@@ -78,7 +78,7 @@ MonoBehaviour:
       - m_Id: 4625f9c991241427aaf3501099352ff7
         m_Value: ServerData/[BuildTarget]
       - m_Id: 13a40389707f14eb3b655e6668089c03
-        m_Value: https://dilmerv-addressables.nyc3.digitaloceanspaces.com/StandaloneWindows64
+        m_Value: https://dcrdro.github.io/AddressablesTest/ServerData/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: c8a581c3939ea40c9a3f0452ad8f8ed1
       m_Name: BuildTarget
