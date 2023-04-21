@@ -330,14 +330,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65a9688fd630847bb9b39b7029429a3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reff:
-    m_AssetGUID: 47ab741376f2146d2a248c5caa94cf14
-    m_SubObjectName: 
-    m_SubObjectType: 
-    m_EditorAssetChanged: 0
-  key: Hat00
-  key2: Assets/Audio/Track
-  path: https://dilmerv-addressables.nyc3.digitaloceanspaces.com/StandaloneWindows64/catalog_2021.07.11.21.43.45.json
+  key: cube
 --- !u!4 &1780084004
 Transform:
   m_ObjectHideFlags: 0
